@@ -7,3 +7,10 @@ List of tracks I've joined.
 
 - [Elixir](./elixir/)
 - [Elm](./elm/)
+
+
+## TODO
+- Racket
+- Ruby
+- Rust
+- Haskell
