@@ -1,0 +1,12 @@
+/Users/vedran/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/aarch64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/vedran/github/exercism/haskell/hello-world/.stack-work/dist/aarch64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_hello_world.hs
+: hash: d830387fe7b50daf5cec3861183f22da5e257a874743c5840f373ec24674eb08
+/Users/vedran/github/exercism/haskell/hello-world/.stack-work/dist/aarch64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 283cee2a67d546638aceee9fdea66c04d57b9e76cf7e02615fee25fad2ca9e83
+/Users/vedran/github/exercism/haskell/hello-world/hello-world.cabal:
+  hash: 6f28473ae127ac4273ce4f0589c6e2dd09c679305625b54f56f22a3f4da80d11
+/Users/vedran/github/exercism/haskell/hello-world/package.yaml:
+  hash: 160a1a88b7a5bd0f6f1ffd3e24f56cbba5e4d4fbd7f76ea73d649199ca9d76a5
+/Users/vedran/github/exercism/haskell/hello-world/test/Tests.hs:
+  hash: 6aa7479ae49b7251b54ea5e75f0cc8f20c8bb4527873a20aefa67cfbb78184d3
