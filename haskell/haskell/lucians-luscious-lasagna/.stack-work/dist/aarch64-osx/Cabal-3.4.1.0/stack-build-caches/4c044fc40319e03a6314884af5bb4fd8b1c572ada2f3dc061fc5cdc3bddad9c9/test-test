@@ -1,0 +1,12 @@
+/Users/vedran/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/aarch64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/vedran/github/exercism/haskell/haskell/lucians-luscious-lasagna/.stack-work/dist/aarch64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_lucians_luscious_lasagna.hs
+: hash: 817bf733d81870dea3e40b347a9406e20b8f8a49cd74ba8b55ce11e3b5d2ca85
+? /Users/vedran/github/exercism/haskell/haskell/lucians-luscious-lasagna/.stack-work/dist/aarch64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h
+: hash: 4525ce7b972fd572f7705f931411b1a3de85b7a1a4d81af8d2482724f9a2fa99
+/Users/vedran/github/exercism/haskell/haskell/lucians-luscious-lasagna/lucians-luscious-lasagna.cabal:
+  hash: f2cf1aa823f5b978ac4eebcee77fced2f528193cf754f93befa735a743d97cc7
+/Users/vedran/github/exercism/haskell/haskell/lucians-luscious-lasagna/package.yaml:
+  hash: f289fc428522fb2a3f75b556978c54b0df75ba8b73b6142802ea9ddd683ce53e
+/Users/vedran/github/exercism/haskell/haskell/lucians-luscious-lasagna/test/Tests.hs:
+  hash: b4dce38cf0afc312707bc1660b21d34de5396413e5e118f124b92284615339d5
